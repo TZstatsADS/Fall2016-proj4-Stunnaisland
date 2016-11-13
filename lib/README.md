@@ -4,4 +4,9 @@
 
 The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
 
-The programs that I used in this project are clustering and topic modeling to rank the music lyrics. 
+The programs that I used in this project are the following:
+
+1. Clustering
+2. Topic Modeling
+  
+Clustering algothrim program looks at words and lyrics clusters that are similar to each other and to rank these movies according. 
