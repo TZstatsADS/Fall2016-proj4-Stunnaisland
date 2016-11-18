@@ -3,3 +3,5 @@
 
 The output directory contains analysis output, processed datasets, logs, or other processed things.
 
+This contains the final test output from the test songs files. 
+
